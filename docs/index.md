@@ -16,4 +16,8 @@ Manyshape is an open (MIT) delivery stack where applications ship as **capabilit
 
 A user tells the agent what they want. The agent reads the app's contract and reference surface, and compiles a new surface honoring the user's **entire intent history**. The activation gate then checks it - declared capabilities ⊆ contract, a static scan for ambient I/O, and a boot test in a hidden sandbox - before it replaces the visible interface. At runtime the surface can only act through the capability bridge, and the vendor's authority plane re-validates every call server-side. Signed-in users get the surface + intent spec saved to their account as an **experience**, which follows them across the runtime, embedded chat SDKs, and the browser extension.
 
+## Who it's for
+
+New here for the why rather than the how? See [Use cases & customers](./use-cases.md): the customer segments, what they build, and the beachhead.
+
 Start with [Getting started](./getting-started.md).
