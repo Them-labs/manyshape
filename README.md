@@ -4,6 +4,8 @@
 
 Manyshape is a software delivery stack where applications ship as **capability contracts** - schemas, actions, policies, and reference UI - and every user's AI compiles a personal interface on top. Developers ship the primitives; users' AI builds the product.
 
+> **▶ Try the live demo:** [demo.manyshape.com](https://demo.manyshape.com) - reshape a mail app in real time. Two flavors: [vanilla](https://demo.manyshape.com/?fw=vanilla) and [React](https://demo.manyshape.com/?fw=react). Still early - expect rough edges.
+
 This is the hub: the concept, the [architecture](ARCHITECTURE.md), the [documentation](docs/), and links to the component repositories. The code lives in the repos below.
 
 ## Repositories
