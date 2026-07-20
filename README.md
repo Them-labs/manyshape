@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/manyshape-logo.png" alt="Manyshape" width="340">
+</p>
+
 # Manyshape
 
 **Make apps in many shapes.** *(manyshape.com)*
